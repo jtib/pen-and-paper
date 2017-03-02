@@ -8,7 +8,7 @@ This toolbox should be able to:
 * generate classic demonstrations seen in class
 
 #### How to install
-You can download the zip or clone the repo.
-Then, add it to your path or navigate to it from within Matlab.
-It will find any necessary files for your project by itself.
+You can download the zip or clone the repo.  
+Then, add it to your path or navigate to it from within Matlab.  
+It will find any necessary files for your project by itself.  
 Just launch the main.m script and follow the instructions.
