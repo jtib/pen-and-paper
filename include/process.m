@@ -1,7 +1,7 @@
 input('To start, enter the name of your project directory: ', 's');
 
 fprintf('Analyzing project contents...\n')
-pause(10)
+pause(6)
 
 fprintf('Analysis finished. Strike any key to continue.\n');
 pause
